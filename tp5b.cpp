@@ -14,7 +14,7 @@ int main(int argc, char* argv[]) {
     }
 
     std::string statusFile = argv[1];
-    int numPoints = std::stoi(argv[2]);
+    long int numPoints = std::stoi(argv[2]); 
 
     if (!std::filesystem::exists(statusFile)) {
         std::cerr << "Error: Status file " << statusFile << " does not exist." << std::endl;

@@ -1,21 +1,21 @@
-[Script PID: 31471] [Replication 1] Starting replication at 2024-12-04 15:19:58.984
-[Script PID: 31471] [Replication 1] Background job started with PID: 31474 at 2024-12-04 15:19:58.984
-[Script PID: 31471] [Replication 2] Starting replication at 2024-12-04 15:19:58.988
-[Script PID: 31471] [Replication 2] Background job started with PID: 31476 at 2024-12-04 15:19:58.988
-[Script PID: 31471] [Replication 3] Starting replication at 2024-12-04 15:19:58.993
-[Script PID: 31471] [Replication 3] Background job started with PID: 31478 at 2024-12-04 15:19:58.993
-[Script PID: 31471] [Replication 4] Starting replication at 2024-12-04 15:19:58.998
-[Script PID: 31471] [Replication 4] Background job started with PID: 31480 at 2024-12-04 15:19:58.998
-[Script PID: 31471] [Replication 5] Starting replication at 2024-12-04 15:19:59.003
-[Script PID: 31471] [Replication 5] Background job started with PID: 31482 at 2024-12-04 15:19:59.003
-[Script PID: 31471] [Replication 6] Starting replication at 2024-12-04 15:19:59.009
-[Script PID: 31471] [Replication 6] Background job started with PID: 31484 at 2024-12-04 15:19:59.009
-[Script PID: 31471] [Replication 7] Starting replication at 2024-12-04 15:19:59.014
-[Script PID: 31471] [Replication 7] Background job started with PID: 31486 at 2024-12-04 15:19:59.014
-[Script PID: 31471] [Replication 8] Starting replication at 2024-12-04 15:19:59.020
-[Script PID: 31471] [Replication 8] Background job started with PID: 31488 at 2024-12-04 15:19:59.020
-[Script PID: 31471] [Replication 9] Starting replication at 2024-12-04 15:19:59.024
-[Script PID: 31471] [Replication 9] Background job started with PID: 31490 at 2024-12-04 15:19:59.024
-[Script PID: 31471] [Replication 10] Starting replication at 2024-12-04 15:19:59.028
-[Script PID: 31471] [Replication 10] Background job started with PID: 31492 at 2024-12-04 15:19:59.028
-[Script PID: 31471] All simulations completed at 2024-12-04 15:19:59.035
+[Script PID: 66362] [Replication 1] Starting replication at 2024-12-16 11:18:46.810
+[Script PID: 66362] [Replication 1] Background job started with PID: 66365 at 2024-12-16 11:18:46.810
+[Script PID: 66362] [Replication 2] Starting replication at 2024-12-16 11:18:46.811
+[Script PID: 66362] [Replication 2] Background job started with PID: 66367 at 2024-12-16 11:18:46.811
+[Script PID: 66362] [Replication 3] Starting replication at 2024-12-16 11:18:46.813
+[Script PID: 66362] [Replication 3] Background job started with PID: 66369 at 2024-12-16 11:18:46.813
+[Script PID: 66362] [Replication 4] Starting replication at 2024-12-16 11:18:46.815
+[Script PID: 66362] [Replication 4] Background job started with PID: 66371 at 2024-12-16 11:18:46.815
+[Script PID: 66362] [Replication 5] Starting replication at 2024-12-16 11:18:46.818
+[Script PID: 66362] [Replication 5] Background job started with PID: 66373 at 2024-12-16 11:18:46.818
+[Script PID: 66362] [Replication 6] Starting replication at 2024-12-16 11:18:46.820
+[Script PID: 66362] [Replication 6] Background job started with PID: 66375 at 2024-12-16 11:18:46.820
+[Script PID: 66362] [Replication 7] Starting replication at 2024-12-16 11:18:46.822
+[Script PID: 66362] [Replication 7] Background job started with PID: 66377 at 2024-12-16 11:18:46.822
+[Script PID: 66362] [Replication 8] Starting replication at 2024-12-16 11:18:46.824
+[Script PID: 66362] [Replication 8] Background job started with PID: 66379 at 2024-12-16 11:18:46.824
+[Script PID: 66362] [Replication 9] Starting replication at 2024-12-16 11:18:46.825
+[Script PID: 66362] [Replication 9] Background job started with PID: 66381 at 2024-12-16 11:18:46.825
+[Script PID: 66362] [Replication 10] Starting replication at 2024-12-16 11:18:46.827
+[Script PID: 66362] [Replication 10] Background job started with PID: 66383 at 2024-12-16 11:18:46.827
+[Script PID: 66362] All simulations completed at 2024-12-16 11:19:45.011
