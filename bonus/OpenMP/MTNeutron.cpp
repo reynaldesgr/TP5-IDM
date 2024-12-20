@@ -2,45 +2,39 @@
 #include <stdlib.h>
 #include <math.h>
 #include <time.h>
-#include <omp.h>  // Include OpenMP header
+#include <omp.h>  
 
-// Physical parameters
-#define LAMBDA 1.0       // Mean free path
-#define RADIUS 10.0      // Radius of the water droplet
-#define MAX_STEPS 10000  // Maximum number of steps for a neutron
+#define LAMBDA 1.0     
+#define RADIUS 10.0     
+#define MAX_STEPS 10000  
 
-// Generates a random distance based on an exponential distribution
 double random_step() {
     return -LAMBDA * log((double)rand() / RAND_MAX);
 }
 
-// Simulates the neutron's movement in 1D, 2D, or 3D
 void simulate_neutron(int dimension, int *escaped, int *absorbed) {
-    double x = 0.0, y = 0.0, z = 0.0;  // Initial position
+    double x = 0.0, y = 0.0, z = 0.0;  
     int steps = 0;
 
     while (steps < MAX_STEPS) {
         steps++;
 
-        // Generate a random step length
         double step_length = random_step();
 
-        // Random movement based on the dimension
         if (dimension == 1) {
-            x += (rand() % 2 ? 1 : -1) * step_length; // Random movement in 1D
+            x += (rand() % 2 ? 1 : -1) * step_length; 
         } else if (dimension == 2) {
-            double angle = ((double)rand() / RAND_MAX) * 2 * M_PI; // Random angle
+            double angle = ((double)rand() / RAND_MAX) * 2 * M_PI; 
             x += step_length * cos(angle);
             y += step_length * sin(angle);
         } else if (dimension == 3) {
-            double theta = ((double)rand() / RAND_MAX) * 2 * M_PI; // Azimuthal angle
-            double phi = acos(1 - 2 * ((double)rand() / RAND_MAX)); // Polar angle
+            double theta = ((double)rand() / RAND_MAX) * 2 * M_PI;
+            double phi = acos(1 - 2 * ((double)rand() / RAND_MAX)); 
             x += step_length * sin(phi) * cos(theta);
             y += step_length * sin(phi) * sin(theta);
             z += step_length * cos(phi);
         }
 
-        // Check if the neutron has escaped the water droplet
         double distance = sqrt(x * x + y * y + z * z);
         if (distance > RADIUS) {
             #pragma omp atomic
@@ -48,7 +42,6 @@ void simulate_neutron(int dimension, int *escaped, int *absorbed) {
             return;
         }
 
-        // Probability of absorption (example: 10% chance of absorption)
         if (((double)rand() / RAND_MAX) < 0.1) {
             #pragma omp atomic
             (*absorbed)++;
@@ -85,8 +78,8 @@ int main(int argc, char *argv[]) {
     }
 
     printf("Total neutrons: \t%d\n", total_neutrons);
-    printf("* Escaped : \t%d\n", escaped);
-    printf("* Absorbed: \t%d\n", absorbed);
+    printf("* escaped : \t%d\n", escaped);
+    printf("* absorbed: \t%d\n", absorbed);
 
     return 0;
 }

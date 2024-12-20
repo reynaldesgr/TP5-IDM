@@ -1,12 +1,12 @@
 #include "Random/Random/MTwistEngine.h"
-#include "methods/MonteCarlo.h"
+#include "utils/monte_carlo.h"
 
 #include <cmath>
 #include <iostream>
 #include <string>
 #include <filesystem>
 
-
+// Q5.
 int main(int argc, char* argv[]) {
     if (argc != 3) {
         std::cerr << "[USAGE]: " << argv[0] << " <status_file> <num_points>" << std::endl;
@@ -14,7 +14,6 @@ int main(int argc, char* argv[]) {
     }
 
     std::string statusFile = argv[1];
-    long int numPoints = std::stoi(argv[2]); 
 
     if (!std::filesystem::exists(statusFile)) {
         std::cerr << "Error: Status file " << statusFile << " does not exist." << std::endl;
@@ -24,8 +23,8 @@ int main(int argc, char* argv[]) {
     CLHEP::MTwistEngine mtEngine;
     mtEngine.restoreStatus(statusFile.c_str());
 
-    double estimatedVolume = monteCarloVolume(mtEngine, numPoints);
-
-    std::cout << "Estimated volume: " << estimatedVolume << std::endl;
+    double estimatedVolume = monteCarloVolume(mtEngine);
+    
+    std::cout << "Volume: " << estimatedVolume << std::endl;
     return 0;
 }

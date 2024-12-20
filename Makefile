@@ -6,8 +6,8 @@ OBJ_DIR = obj
 
 $(shell mkdir -p $(OBJ_DIR)/methods $(OBJ_DIR)/utils $(OBJ_DIR)/Random/include)
 
-SOURCES_TP5A = tp5a.cpp methods/MonteCarlo.cpp utils/RandomMT.cpp
-SOURCES_TP5B = tp5b.cpp methods/MonteCarlo.cpp
+SOURCES_TP5A = tp5a.cpp utils/monte_carlo.cpp utils/status.cpp utils/common.cpp
+SOURCES_TP5B = tp5b.cpp utils/monte_carlo.cpp utils/common.cpp
 
 OBJECTS_TP5A = $(addprefix $(OBJ_DIR)/, $(SOURCES_TP5A:.cpp=.o))
 OBJECTS_TP5B = $(addprefix $(OBJ_DIR)/, $(SOURCES_TP5B:.cpp=.o))

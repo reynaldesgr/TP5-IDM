@@ -65,7 +65,7 @@ void run_simulation(int num_replications) {
     printf("Sequence length\t: %d\n", SEQUENCE_LENGTH);
     printf("Mean number of attempts\t: %.2f\n", mean);
     printf("Standard deviation of attempts\t %.2f\n", std_dev);
-    printf("95%% Confidence Interval for attempts: [%.2f, %.2f]\n", confidence_interval_lower, confidence_interval_upper);
+    printf("95%% Confidence interval for attempts: [%.2f, %.2f]\n", confidence_interval_lower, confidence_interval_upper);
 }
 
 int main() {
