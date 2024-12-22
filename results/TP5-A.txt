@@ -1,0 +1,100 @@
+First 10 generated numbers:
+0.176117
+0.0202835
+0.863258
+0.118952
+0.463625
+0.0618998
+0.823987
+0.571751
+0.0917234
+0.777519
+Generator state saved to 'MTwist.conf'.
+Generator restored.
+
+Restored generator, first 10 generated numbers:
+0.176117
+0.0202835
+0.863258
+0.118952
+0.463625
+0.0618998
+0.823987
+0.571751
+0.0917234
+0.777519
+
+ ==== Saving generator status ==== 
+Num. status : 10, Num. draws : 3000000000 
+[======================================================================] 100 %
+status-1.conf saved.
+[======================================================================] 100 %
+status-2.conf saved.
+[======================================================================] 100 %
+status-3.conf saved.
+[======================================================================] 100 %
+status-4.conf saved.
+[======================================================================] 100 %
+status-5.conf saved.
+[======================================================================] 100 %
+status-6.conf saved.
+[======================================================================] 100 %
+status-7.conf saved.
+[======================================================================] 100 %
+status-8.conf saved.
+[======================================================================] 100 %
+status-9.conf saved.
+[======================================================================] 100 %
+status-10.conf saved.
+
+ === Monte Carlo simulation ===
+
+** Start task at: 2024-12-22 07:45:18
+
+ Num. replications : / Num. draws per replication : 103000000000
+
+ Estimating volume by Monte Carlo method... 
+[======================================================================] 100 %
+ Replication 1: Estimated volume = 4.18873
+
+ Estimating volume by Monte Carlo method... 
+[======================================================================] 100 %
+ Replication 2: Estimated volume = 4.18878
+
+ Estimating volume by Monte Carlo method... 
+[======================================================================] 100 %
+ Replication 3: Estimated volume = 4.18882
+
+ Estimating volume by Monte Carlo method... 
+[======================================================================] 100 %
+ Replication 4: Estimated volume = 4.18884
+
+ Estimating volume by Monte Carlo method... 
+[======================================================================] 100 %
+ Replication 5: Estimated volume = 4.1889
+
+ Estimating volume by Monte Carlo method... 
+[======================================================================] 100 %
+ Replication 6: Estimated volume = 4.18885
+
+ Estimating volume by Monte Carlo method... 
+[======================================================================] 100 %
+ Replication 7: Estimated volume = 4.18882
+
+ Estimating volume by Monte Carlo method... 
+[======================================================================] 100 %
+ Replication 8: Estimated volume = 4.18874
+
+ Estimating volume by Monte Carlo method... 
+[======================================================================] 100 %
+ Replication 9: Estimated volume = 4.18879
+
+ Estimating volume by Monte Carlo method... 
+[======================================================================] 100 %
+ Replication 10: Estimated volume = 4.18878
+
+ >> Average estimated volume after 10 replications: 4.1888
+ >> Standard deviation: 5.28373e-05
+ >> Variance: 2.79178e-09
+ >> 95% Confidence interval: [4.18877, 4.18884]
+Time used : 1112.31 seconds

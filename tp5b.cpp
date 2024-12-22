@@ -23,7 +23,7 @@ int main(int argc, char* argv[]) {
     CLHEP::MTwistEngine mtEngine;
     mtEngine.restoreStatus(statusFile.c_str());
 
-    double estimatedVolume = monteCarloVolume(mtEngine);
+    double estimatedVolume = mvolume(mtEngine);
     
     std::cout << "Volume: " << estimatedVolume << std::endl;
     return 0;

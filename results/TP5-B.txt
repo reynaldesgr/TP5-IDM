@@ -1,0 +1,7 @@
+see scripts/results & replication_log.txt
+
+Average estimated volume after 10 replications: 4.1888050000
+Variance of estimated volumes: .0000000023
+Standard deviation of estimated volumes: .0000479583
+95% confidence interval for estimated volume: [4.1887752752, 4.1888347248]
+All simulations completed. Total time taken: 280.510 seconds.

@@ -8,10 +8,10 @@
 
 #define NUM_POINTS 3000000000
 
-/** restores a saved generator status and estimates the volume of a sphere using Monte Carlo simulation. */
-double monteCarloVolume(CLHEP::MTwistEngine& mtEngine, long numPoints = NUM_POINTS);
+// restores a saved generator status and estimates the volume of a sphere using Monte Carlo simulation. 
+double mvolume(CLHEP::MTwistEngine& mtEngine, long numPoints = NUM_POINTS);
 
-/** runs a Monte Carlo simulation for multiple replications. */
-void monteCarloSimulation(int numReplications, long numDrawsPerReplication);
+// runs a Monte Carlo simulation for multiple replications. 
+void mcsimulation(int numReplications, long numDrawsPerReplication);
 
 #endif // MONTECARLO_H

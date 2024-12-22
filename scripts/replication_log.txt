@@ -1,146 +1,25 @@
-[Script PID: 66620] [Replication 1] Starting replication at 2024-12-19 21:56:46.325
-[Script PID: 66620] [Replication 1] Background job started with PID: 66624 at 2024-12-19 21:56:46.325
-[Script PID: 66620] [Replication 2] Starting replication at 2024-12-19 21:56:46.330
-[Script PID: 66620] [Replication 2] Background job started with PID: 66626 at 2024-12-19 21:56:46.330
-[Script PID: 66620] [Replication 3] Starting replication at 2024-12-19 21:56:46.335
-[Script PID: 66620] [Replication 3] Background job started with PID: 66628 at 2024-12-19 21:56:46.335
-[Script PID: 66620] [Replication 4] Starting replication at 2024-12-19 21:56:46.341
-[Script PID: 66620] [Replication 4] Background job started with PID: 66630 at 2024-12-19 21:56:46.341
-[Script PID: 66620] [Replication 5] Starting replication at 2024-12-19 21:56:46.346
-[Script PID: 66620] [Replication 5] Background job started with PID: 66632 at 2024-12-19 21:56:46.346
-[Script PID: 66620] [Replication 6] Starting replication at 2024-12-19 21:56:46.352
-[Script PID: 66620] [Replication 6] Background job started with PID: 66634 at 2024-12-19 21:56:46.352
-[Script PID: 66620] [Replication 7] Starting replication at 2024-12-19 21:56:46.358
-[Script PID: 66620] [Replication 7] Background job started with PID: 66636 at 2024-12-19 21:56:46.358
-[Script PID: 66620] [Replication 8] Starting replication at 2024-12-19 21:56:46.363
-[Script PID: 66620] [Replication 8] Background job started with PID: 66638 at 2024-12-19 21:56:46.363
-[Script PID: 66620] [Replication 9] Starting replication at 2024-12-19 21:56:46.368
-[Script PID: 66620] [Replication 9] Background job started with PID: 66640 at 2024-12-19 21:56:46.368
-[Script PID: 66620] [Replication 10] Starting replication at 2024-12-19 21:56:46.374
-[Script PID: 66620] [Replication 10] Background job started with PID: 66642 at 2024-12-19 21:56:46.374
-[Script PID: 66620]  *** All simulations completed at 2024-12-19 21:58:30.013 ***
-[Script PID: 66620]  *** Total time taken: 103.694 seconds ***
-Average estimated volume after 10 replications: 4.18880
-[Script PID: 78601] [Replication 1] Starting replication at 2024-12-19 22:40:46.986
-[Script PID: 78601] [Replication 1] Background job started with PID: 78605 at 2024-12-19 22:40:46.986
-[Script PID: 78601] [Replication 2] Starting replication at 2024-12-19 22:40:46.991
-[Script PID: 78601] [Replication 2] Background job started with PID: 78607 at 2024-12-19 22:40:46.991
-[Script PID: 78601] [Replication 3] Starting replication at 2024-12-19 22:40:46.996
-[Script PID: 78601] [Replication 3] Background job started with PID: 78609 at 2024-12-19 22:40:46.996
-[Script PID: 78601] [Replication 4] Starting replication at 2024-12-19 22:40:47.000
-[Script PID: 78601] [Replication 4] Background job started with PID: 78611 at 2024-12-19 22:40:47.000
-[Script PID: 78601] [Replication 5] Starting replication at 2024-12-19 22:40:47.006
-[Script PID: 78601] [Replication 5] Background job started with PID: 78613 at 2024-12-19 22:40:47.006
-[Script PID: 78601] [Replication 6] Starting replication at 2024-12-19 22:40:47.011
-[Script PID: 78601] [Replication 6] Background job started with PID: 78615 at 2024-12-19 22:40:47.011
-[Script PID: 78601] [Replication 7] Starting replication at 2024-12-19 22:40:47.016
-[Script PID: 78601] [Replication 7] Background job started with PID: 78617 at 2024-12-19 22:40:47.016
-[Script PID: 78601] [Replication 8] Starting replication at 2024-12-19 22:40:47.022
-[Script PID: 78601] [Replication 8] Background job started with PID: 78619 at 2024-12-19 22:40:47.022
-[Script PID: 78601] [Replication 9] Starting replication at 2024-12-19 22:40:47.027
-[Script PID: 78601] [Replication 9] Background job started with PID: 78621 at 2024-12-19 22:40:47.027
-[Script PID: 78601] [Replication 10] Starting replication at 2024-12-19 22:40:47.031
-[Script PID: 78601] [Replication 10] Background job started with PID: 78623 at 2024-12-19 22:40:47.031
-[Script PID: 78601]  *** All simulations completed at 2024-12-19 22:44:42.434 ***
-[Script PID: 78601]  *** Total time taken: 235.458 seconds ***
-Average estimated volume after 10 replications: 4.18880
-[Script PID: 14030] [Replication 1] Starting replication at 2024-12-20 22:04:38.662
-[Script PID: 14030] [Replication 1] Background job started with PID: 14034 at 2024-12-20 22:04:38.662
-[Script PID: 14030] [Replication 2] Starting replication at 2024-12-20 22:04:38.679
-[Script PID: 14030] [Replication 2] Background job started with PID: 14036 at 2024-12-20 22:04:38.679
-[Script PID: 14030] [Replication 3] Starting replication at 2024-12-20 22:04:38.683
-[Script PID: 14030] [Replication 3] Background job started with PID: 14038 at 2024-12-20 22:04:38.683
-[Script PID: 14030] [Replication 4] Starting replication at 2024-12-20 22:04:38.687
-[Script PID: 14030] [Replication 4] Background job started with PID: 14040 at 2024-12-20 22:04:38.687
-[Script PID: 14030] [Replication 5] Starting replication at 2024-12-20 22:04:38.691
-[Script PID: 14030] [Replication 5] Background job started with PID: 14042 at 2024-12-20 22:04:38.691
-[Script PID: 14030] [Replication 6] Starting replication at 2024-12-20 22:04:38.695
-[Script PID: 14030] [Replication 6] Background job started with PID: 14044 at 2024-12-20 22:04:38.695
-[Script PID: 14030] [Replication 7] Starting replication at 2024-12-20 22:04:38.699
-[Script PID: 14030] [Replication 7] Background job started with PID: 14046 at 2024-12-20 22:04:38.699
-[Script PID: 14030] [Replication 8] Starting replication at 2024-12-20 22:04:38.703
-[Script PID: 14030] [Replication 8] Background job started with PID: 14048 at 2024-12-20 22:04:38.703
-[Script PID: 14030] [Replication 9] Starting replication at 2024-12-20 22:04:38.707
-[Script PID: 14030] [Replication 9] Background job started with PID: 14050 at 2024-12-20 22:04:38.707
-[Script PID: 14030] [Replication 10] Starting replication at 2024-12-20 22:04:38.711
-[Script PID: 14030] [Replication 10] Background job started with PID: 14052 at 2024-12-20 22:04:38.711
-[Script PID: 14030]  *** All simulations completed at 2024-12-20 22:08:20.038 ***
-[Script PID: 14030]  *** Total time taken: 221.382 seconds ***
-Average estimated volume after 10 replications: 4.18880
-Variance of estimated volumes: 0
-Standard deviation of estimated volumes: 0
-95% confidence interval for estimated volume: [4.18880, 4.18880]
-[Script PID: 15553] [Replication 1] Starting replication at 2024-12-20 22:10:50.284
-[Script PID: 15553] [Replication 1] Background job started with PID: 15557 at 2024-12-20 22:10:50.284
-[Script PID: 15553] [Replication 2] Starting replication at 2024-12-20 22:10:50.288
-[Script PID: 15553] [Replication 2] Background job started with PID: 15559 at 2024-12-20 22:10:50.288
-[Script PID: 15553] [Replication 3] Starting replication at 2024-12-20 22:10:50.292
-[Script PID: 15553] [Replication 3] Background job started with PID: 15561 at 2024-12-20 22:10:50.292
-[Script PID: 15553] [Replication 4] Starting replication at 2024-12-20 22:10:50.295
-[Script PID: 15553] [Replication 4] Background job started with PID: 15563 at 2024-12-20 22:10:50.295
-[Script PID: 15553] [Replication 5] Starting replication at 2024-12-20 22:10:50.299
-[Script PID: 15553] [Replication 5] Background job started with PID: 15565 at 2024-12-20 22:10:50.299
-[Script PID: 15553] [Replication 6] Starting replication at 2024-12-20 22:10:50.303
-[Script PID: 15553] [Replication 6] Background job started with PID: 15567 at 2024-12-20 22:10:50.303
-[Script PID: 15553] [Replication 7] Starting replication at 2024-12-20 22:10:50.307
-[Script PID: 15553] [Replication 7] Background job started with PID: 15569 at 2024-12-20 22:10:50.307
-[Script PID: 15553] [Replication 8] Starting replication at 2024-12-20 22:10:50.311
-[Script PID: 15553] [Replication 8] Background job started with PID: 15571 at 2024-12-20 22:10:50.311
-[Script PID: 15553] [Replication 9] Starting replication at 2024-12-20 22:10:50.315
-[Script PID: 15553] [Replication 9] Background job started with PID: 15573 at 2024-12-20 22:10:50.315
-[Script PID: 15553] [Replication 10] Starting replication at 2024-12-20 22:10:50.320
-[Script PID: 15553] [Replication 10] Background job started with PID: 15575 at 2024-12-20 22:10:50.320
-[Script PID: 15553]  *** All simulations completed at 2024-12-20 22:14:32.620 ***
-[Script PID: 15553]  *** Total time taken: 222.341 seconds ***
-Average estimated volume after 10 replications: 4.18880
-[Script PID: 17026] [Replication 1] Starting replication at 2024-12-20 22:18:28.431
-[Script PID: 17026] [Replication 1] Background job started with PID: 17030 at 2024-12-20 22:18:28.431
-[Script PID: 17026] [Replication 2] Starting replication at 2024-12-20 22:18:28.436
-[Script PID: 17026] [Replication 2] Background job started with PID: 17032 at 2024-12-20 22:18:28.436
-[Script PID: 17026] [Replication 3] Starting replication at 2024-12-20 22:18:28.440
-[Script PID: 17026] [Replication 3] Background job started with PID: 17034 at 2024-12-20 22:18:28.440
-[Script PID: 17026] [Replication 4] Starting replication at 2024-12-20 22:18:28.444
-[Script PID: 17026] [Replication 4] Background job started with PID: 17036 at 2024-12-20 22:18:28.444
-[Script PID: 17026] [Replication 5] Starting replication at 2024-12-20 22:18:28.447
-[Script PID: 17026] [Replication 5] Background job started with PID: 17038 at 2024-12-20 22:18:28.447
-[Script PID: 17026] [Replication 6] Starting replication at 2024-12-20 22:18:28.451
-[Script PID: 17026] [Replication 6] Background job started with PID: 17040 at 2024-12-20 22:18:28.451
-[Script PID: 17026] [Replication 7] Starting replication at 2024-12-20 22:18:28.456
-[Script PID: 17026] [Replication 7] Background job started with PID: 17042 at 2024-12-20 22:18:28.456
-[Script PID: 17026] [Replication 8] Starting replication at 2024-12-20 22:18:28.460
-[Script PID: 17026] [Replication 8] Background job started with PID: 17044 at 2024-12-20 22:18:28.460
-[Script PID: 17026] [Replication 9] Starting replication at 2024-12-20 22:18:28.465
-[Script PID: 17026] [Replication 9] Background job started with PID: 17046 at 2024-12-20 22:18:28.465
-[Script PID: 17026] [Replication 10] Starting replication at 2024-12-20 22:18:28.469
-[Script PID: 17026] [Replication 10] Background job started with PID: 17048 at 2024-12-20 22:18:28.469
-[Script PID: 17026]  *** All simulations completed at 2024-12-20 22:22:08.648 ***
-[Script PID: 17026]  *** Total time taken: 220.224 seconds ***
-Average estimated volume after 10 replications: 4.18880
-Variance of estimated volumes: 0
-Standard deviation of estimated volumes: 0
-95% confidence interval for estimated volume: [4.18880, 4.18880]
-[Script PID: 18556] [Replication 1] Starting replication at 2024-12-20 22:26:14.782
-[Script PID: 18556] [Replication 1] Background job started with PID: 18560 at 2024-12-20 22:26:14.782
-[Script PID: 18556] [Replication 2] Starting replication at 2024-12-20 22:26:14.785
-[Script PID: 18556] [Replication 2] Background job started with PID: 18562 at 2024-12-20 22:26:14.785
-[Script PID: 18556] [Replication 3] Starting replication at 2024-12-20 22:26:14.788
-[Script PID: 18556] [Replication 3] Background job started with PID: 18564 at 2024-12-20 22:26:14.788
-[Script PID: 18556] [Replication 4] Starting replication at 2024-12-20 22:26:14.792
-[Script PID: 18556] [Replication 4] Background job started with PID: 18566 at 2024-12-20 22:26:14.792
-[Script PID: 18556] [Replication 5] Starting replication at 2024-12-20 22:26:14.797
-[Script PID: 18556] [Replication 5] Background job started with PID: 18568 at 2024-12-20 22:26:14.797
-[Script PID: 18556] [Replication 6] Starting replication at 2024-12-20 22:26:14.801
-[Script PID: 18556] [Replication 6] Background job started with PID: 18570 at 2024-12-20 22:26:14.801
-[Script PID: 18556] [Replication 7] Starting replication at 2024-12-20 22:26:14.805
-[Script PID: 18556] [Replication 7] Background job started with PID: 18572 at 2024-12-20 22:26:14.805
-[Script PID: 18556] [Replication 8] Starting replication at 2024-12-20 22:26:14.810
-[Script PID: 18556] [Replication 8] Background job started with PID: 18574 at 2024-12-20 22:26:14.810
-[Script PID: 18556] [Replication 9] Starting replication at 2024-12-20 22:26:14.814
-[Script PID: 18556] [Replication 9] Background job started with PID: 18576 at 2024-12-20 22:26:14.814
-[Script PID: 18556] [Replication 10] Starting replication at 2024-12-20 22:26:14.818
-[Script PID: 18556] [Replication 10] Background job started with PID: 18578 at 2024-12-20 22:26:14.818
-[Script PID: 18556]  *** All simulations completed at 2024-12-20 22:29:49.344 ***
-[Script PID: 18556]  *** Total time taken: 214.567 seconds ***
+[Script PID: 19323] [Replication 1] Starting replication at 2024-12-22 08:06:58.507
+[Script PID: 19323] [Replication 1] Background job started with PID: 19327 at 2024-12-22 08:06:58.507
+[Script PID: 19323] [Replication 2] Starting replication at 2024-12-22 08:06:58.514
+[Script PID: 19323] [Replication 2] Background job started with PID: 19329 at 2024-12-22 08:06:58.514
+[Script PID: 19323] [Replication 3] Starting replication at 2024-12-22 08:06:58.522
+[Script PID: 19323] [Replication 3] Background job started with PID: 19331 at 2024-12-22 08:06:58.522
+[Script PID: 19323] [Replication 4] Starting replication at 2024-12-22 08:06:58.528
+[Script PID: 19323] [Replication 4] Background job started with PID: 19333 at 2024-12-22 08:06:58.528
+[Script PID: 19323] [Replication 5] Starting replication at 2024-12-22 08:06:58.534
+[Script PID: 19323] [Replication 5] Background job started with PID: 19335 at 2024-12-22 08:06:58.534
+[Script PID: 19323] [Replication 6] Starting replication at 2024-12-22 08:06:58.554
+[Script PID: 19323] [Replication 6] Background job started with PID: 19337 at 2024-12-22 08:06:58.554
+[Script PID: 19323] [Replication 7] Starting replication at 2024-12-22 08:06:58.562
+[Script PID: 19323] [Replication 7] Background job started with PID: 19339 at 2024-12-22 08:06:58.562
+[Script PID: 19323] [Replication 8] Starting replication at 2024-12-22 08:06:58.571
+[Script PID: 19323] [Replication 8] Background job started with PID: 19341 at 2024-12-22 08:06:58.571
+[Script PID: 19323] [Replication 9] Starting replication at 2024-12-22 08:06:58.580
+[Script PID: 19323] [Replication 9] Background job started with PID: 19343 at 2024-12-22 08:06:58.580
+[Script PID: 19323] [Replication 10] Starting replication at 2024-12-22 08:06:58.591
+[Script PID: 19323] [Replication 10] Background job started with PID: 19345 at 2024-12-22 08:06:58.591
+[Script PID: 19323]  *** All simulations completed at 2024-12-22 08:11:39.010 ***
+[Script PID: 19323]  *** Total time taken: 280.510 seconds ***
 Average estimated volume after 10 replications: 4.1888050000
 Variance of estimated volumes: .0000000023
 Standard deviation of estimated volumes: .0000479583

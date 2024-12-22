@@ -1,5 +1,5 @@
 CXX = g++
-CXXFLAGS = -I methods/ utils/ -I Random/include
+CXXFLAGS = -I utils/ -I Random/include
 LDFLAGS = -L Random/lib -lCLHEP-Random-2.1.0.0 -static
 
 OBJ_DIR = obj
