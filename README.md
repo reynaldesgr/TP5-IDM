@@ -1,5 +1,7 @@
 ## TP 5 - Ingénierie Dirigée par les Modèles (IDM)
 
+> **Important :** Le rapport de ce TP se trouve dans le dossier ``rapport``.
+
 ### Compilation
 
 - se rendre dans le répertoire ``TP5-IDM``.
